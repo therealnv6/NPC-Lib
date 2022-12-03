@@ -18,6 +18,11 @@
       <id>spigot-repo</id>
       <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
     </repository>
+    
+    <repository>
+      <id>dmulloy</id>
+      <url>https://repo.dmulloy2.net/repository/public/</url>
+    </repository>
 
     <repository>
       <id>jitpack.io</id>
